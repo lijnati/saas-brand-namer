@@ -1,6 +1,6 @@
 {
   "name": "lijnati-skills",
-  "description": "Claude Code skills by lijnati for building and shipping SaaS products.",
+  "description": "Claude Code skills by lijnati for building, shipping and naming SaaS products.",
   "owner": {
     "name": "lijnati",
     "url": "https://github.com/lijnati"
@@ -12,6 +12,16 @@
       "description": "Generates one-word SaaS brand names and rejects AI naming slop like ScopePilot, VendorVault, Nexus and Lumina.",
       "version": "1.0.0",
       "category": "productivity"
+    },
+    {
+      "name": "modern-saas-builder",
+      "source": {
+        "source": "github",
+        "repo": "lijnati/modern-saas-builder-skills"
+      },
+      "description": "Founder-minded senior product engineer and SaaS architect skill: architecture, security, testing, monetization, AI agents, Web3 and Telegram playbooks.",
+      "version": "1.1.0",
+      "category": "development"
     }
   ]
 }

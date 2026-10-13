@@ -42,6 +42,12 @@ On Claude Code versions before 2.1.275, add the marketplace first, then install:
 
 Updates arrive through `/plugin marketplace update lijnati-skills`.
 
+The same marketplace also lists [modern-saas-builder](https://github.com/lijnati/modern-saas-builder-skills), a SaaS architecture and product-engineering skill:
+
+```
+/plugin install modern-saas-builder@lijnati-skills
+```
+
 **Claude Code (manual)**
 
 ```bash
