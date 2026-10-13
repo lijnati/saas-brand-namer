@@ -1,0 +1,17 @@
+{
+  "name": "lijnati-skills",
+  "description": "Claude Code skills by lijnati for building and shipping SaaS products.",
+  "owner": {
+    "name": "lijnati",
+    "url": "https://github.com/lijnati"
+  },
+  "plugins": [
+    {
+      "name": "saas-brand-namer",
+      "source": "./",
+      "description": "Generates one-word SaaS brand names and rejects AI naming slop like ScopePilot, VendorVault, Nexus and Lumina.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

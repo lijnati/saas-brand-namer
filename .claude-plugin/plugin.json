@@ -1,0 +1,13 @@
+{
+  "name": "saas-brand-namer",
+  "version": "1.0.0",
+  "description": "Generates one-word SaaS brand names and rejects AI naming slop like ScopePilot, VendorVault, Nexus and Lumina.",
+  "author": {
+    "name": "lijnati",
+    "url": "https://github.com/lijnati"
+  },
+  "homepage": "https://github.com/lijnati/saas-brand-namer",
+  "repository": "https://github.com/lijnati/saas-brand-namer",
+  "license": "MIT",
+  "keywords": ["naming", "branding", "saas", "startup", "skill"]
+}
