@@ -25,7 +25,10 @@
     },
     {
       "name": "pixel-meadow-ui",
-      "source": "./plugins/pixel-meadow-ui",
+      "source": {
+        "source": "github",
+        "repo": "lijnati/pixel-meadow-ui"
+      },
       "description": "Design skill for cozy, premium landing pages with procedural pixel-art nature heroes, glass pill nav, DM Sans + serif italic type, pastel cards and soft motion.",
       "version": "1.0.0",
       "category": "design"
