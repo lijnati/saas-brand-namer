@@ -48,6 +48,12 @@ The same marketplace also lists [modern-saas-builder](https://github.com/lijnati
 /plugin install modern-saas-builder@lijnati-skills
 ```
 
+It also lists [pixel-meadow-ui](https://github.com/lijnati/pixel-meadow-ui), a design skill for cozy, premium landing pages with procedural pixel-art heroes:
+
+```
+/plugin install pixel-meadow-ui@lijnati-skills
+```
+
 **Claude Code (manual)**
 
 ```bash
