@@ -48,6 +48,12 @@ The same marketplace also lists [modern-saas-builder](https://github.com/lijnati
 /plugin install modern-saas-builder@lijnati-skills
 ```
 
+It also lists [pixel-meadow-ui](plugins/pixel-meadow-ui), a design skill for cozy, premium landing pages with procedural pixel-art heroes:
+
+```
+/plugin install pixel-meadow-ui@lijnati-skills
+```
+
 **Claude Code (manual)**
 
 ```bash
@@ -102,6 +108,8 @@ skills/saas-brand-namer/
   SKILL.md            the skill
   scripts/            name linter
   assets/             slop list and word list
+plugins/pixel-meadow-ui/
+  pixel-art landing page design skill (separate plugin in the same marketplace)
 tests/                linter tests
 examples/             sample runs
 ```
